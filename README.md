@@ -4,7 +4,7 @@ private website
 
 ### TY.Z
 
-I am a common programming lover.This page  is to share some `codes` and `notes` of mine with the public.
+For code sharing
 
 For more informations you can visit the my github.
 -----
