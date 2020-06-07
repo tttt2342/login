@@ -29,7 +29,7 @@ Game Download:
 1.Warcraft3
 ----
 ![](https://github.com/tttt2342/tyhome/raw/master/0fc1f16dbce6740638750655d3b9c6ca.jpg "Warcraft III")
-[Warcraft 3 :Frozen Throne](https://www.onlinedown.net/soft/580699.htm "魔兽争霸3下载")
+[Warcraft 3 :Frozen Throne](http://forspeed.onlinedown.net/down/newdown/2/17/Warcraft3_1.24E.rar "魔兽争霸3下载")
 
 
 
