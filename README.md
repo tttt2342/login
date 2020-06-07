@@ -33,7 +33,7 @@ Game Download:
 
 2.Battlenet Application
 ----
-[Battlenet pc](https://www.battlenet.com.cn/download/getInstallerForGame?os=win&locale=zhCN&version=LIVE&gameProgram=BATTLENET_APP "暴雪战网客户端下载")
+[Battlenet App](https://www.battlenet.com.cn/download/getInstallerForGame?os=win&locale=zhCN&version=LIVE&gameProgram=BATTLENET_APP "暴雪战网客户端下载")
 
 3.Hearthstone
 ----
@@ -41,6 +41,6 @@ Game Download:
 
 4.Starcraft Reforged
 ----
-[Sratcraft Reforged](https://www.battlenet.com.cn/download/getInstallerForGame?os=win&locale=zhCN&version=LIVE&gameProgram=STARCRAFT "星际争霸重制版下载")
+[Starcraft Reforged](https://www.battlenet.com.cn/download/getInstallerForGame?os=win&locale=zhCN&version=LIVE&gameProgram=STARCRAFT "星际争霸重制版下载")
 
 
