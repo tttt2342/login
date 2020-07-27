@@ -43,3 +43,4 @@ Game Download:
 [Starcraft Reforged](https://www.battlenet.com.cn/download/getInstallerForGame?os=win&locale=zhCN&version=LIVE&gameProgram=STARCRAFT "星际争霸重制版下载")
 
 
+ERuRNPW7yerZkt7RaF2
